@@ -40,8 +40,3 @@ function setText(value) {
   $(".js-avglength").append(avgWordLength(value));
   $(".js-avgsent").append(avgSentenceLength(value));
 }
-
-
-
-
-
